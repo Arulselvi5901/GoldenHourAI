@@ -1,0 +1,8 @@
+{
+  "name": "GoldenHourAI - Rural Emergency Response Assistant",
+  "description": "AI emergency response assistant for rural areas with no internet, no smartphone, and no street addresses. Multilingual SMS triage, smart dispatch, and doctor console powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
