@@ -6,7 +6,7 @@
 
 - **Live demo:** https://goldenhourai-rural-emergency-response-assistant.ai.studio
 - **Demo video (under 4 min):**(https://drive.google.com/file/d/1yb8whJrPVz_nVoVAVUvx5iQLmDNUi8v2/view?usp=drive_link)
-- **Pitch deck:**(https://docs.google.com/presentation/d/1lbhHJy30vHS7DacYUtyRUNh3NVD1MtJK/edit?usp=drive_link&ouid=107815762789766368423&rtpof=true&sd=true)
+- **Pitch deck:**https://drive.google.com/file/d/1eA3KfXoZwbN2liDuD1oX3p72jlbCvZPb/view?usp=drive_link
 - **Team GoldenHourAI:** Arulselvi T S · Janarakshaa J
 
 ---
